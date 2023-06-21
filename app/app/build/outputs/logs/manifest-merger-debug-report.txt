@@ -1,0 +1,233 @@
+-- Merging decision tree log ---
+manifest
+ADDED from F:\app\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from F:\app\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from F:\app\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from F:\app\app\src\main\AndroidManifest.xml:2:1-37:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\JungMin Park\.gradle\caches\transforms-3\37536efd5748878503cf2dc01f87f6a1\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\5da4dc74ff000d992827c5b2b7b39b61\transformed\jetified-lifecycle-runtime-ktx-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\41d6205a369c2736287597c396de302e\transformed\material-1.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\JungMin Park\.gradle\caches\transforms-3\367f2ae5228903c19f30a33b6d7e3d73\transformed\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\4d9d9461cdcbcc0729e39a74fe4a7bcf\transformed\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\JungMin Park\.gradle\caches\transforms-3\2e6de6fbbe04f9e23772a1923522a233\transformed\exifinterface-1.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.3.1] C:\Users\JungMin Park\.gradle\caches\transforms-3\63a37ee45f3d5943a222dcfb4e779145\transformed\jetified-tensorflow-lite-task-vision-0.3.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\411e0db9bddc8b74648643de639dfa95\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\749a1e6110515bfe79c6602069e6156c\transformed\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\3b331f3fc9c7512c78e45a904d81ee79\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\9f77ddf6958393bc2e6bb5a5f25661f4\transformed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\c814f84c89e2ab17c8184682a9a5df60\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\80143b588b75a1a49b487b5189c1d7c2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\cd326af983f44c3c7bfa12ee7401a007\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\b3a8e15998b1c1324eb42643c97abd05\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\801d960d51ed0b9ee95b6b7d996c1b4a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\03dc8120218393b05f8c51bed3dea04b\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\b55be134a60a8710c41d74a0e3e2c2d3\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\e4c6e50681cfaed855c30066d635b9e7\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\83eaeb533fddac814ad07d7a84b9f495\transformed\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\7a08d71db02abdc70a6a8396af3b972c\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\0e2d15efcb66bbbb50a4efb956548c63\transformed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\JungMin Park\.gradle\caches\transforms-3\8b183c82c61773c45017a1ce762e00aa\transformed\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\03f2a205005cf4c361b29bc9a58533e2\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\8b49b448f96530ab0f364a01fcc71a6a\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\8938423ac1cbb953803e642febc9afa5\transformed\lifecycle-runtime-2.3.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\86ccdf953527e9bfe336d813b52aa3f8\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\6971b8cea221a35726a2e83084f4db53\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\0e2644e941b52e0cac4197c9471712ac\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\535bbbfae8a61ec511ed932389014bee\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\e967a9f456a6ad288822aa5c61e691f7\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\173b4fed58426d2792a3f48379edd4f6\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\27240a40f72b58f629e4c1a3b8228043\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\b7a5835dcd4a15d223c7184446c80595\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\6bcf35b3e25dd83bbf7bc111d9ec093a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\95767d714824c3664dc10dc07531ca65\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\b5495c7f7eb8a59970c048401ff60c1d\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.3.1] C:\Users\JungMin Park\.gradle\caches\transforms-3\5fa5fcbc4297bd6910dab4a80a49f4bf\transformed\jetified-tensorflow-lite-task-base-0.3.1\AndroidManifest.xml:2:1-6:12
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.3.1] C:\Users\JungMin Park\.gradle\caches\transforms-3\51777d1b4e077bb7d18f96e1e3f1d335\transformed\jetified-tensorflow-lite-support-api-0.3.1\AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\9ca556d4b0ff26169a70e6a446f91674\transformed\jetified-tensorflow-lite-api-2.7.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\JungMin Park\.gradle\caches\transforms-3\2894c6cf76b855333abbe18483663783\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:2:1-9:12
+INJECTED from F:\app\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from F:\app\app\src\main\AndroidManifest.xml:2:1-37:12
+INJECTED from F:\app\app\src\main\AndroidManifest.xml:2:1-37:12
+	package
+		ADDED from F:\app\app\src\main\AndroidManifest.xml:3:5-54
+		INJECTED from F:\app\app\src\main\AndroidManifest.xml
+		INJECTED from F:\app\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from F:\app\app\src\main\AndroidManifest.xml
+		ADDED from F:\app\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from F:\app\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from F:\app\app\src\main\AndroidManifest.xml
+		ADDED from F:\app\app\src\main\AndroidManifest.xml:2:1-37:12
+		INJECTED from F:\app\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from F:\app\app\src\main\AndroidManifest.xml:2:11-69
+queries
+ADDED from F:\app\app\src\main\AndroidManifest.xml:5:5-9:15
+intent#action:name:android.media.action.IMAGE_CAPTURE
+ADDED from F:\app\app\src\main\AndroidManifest.xml:6:9-8:18
+action#android.media.action.IMAGE_CAPTURE
+ADDED from F:\app\app\src\main\AndroidManifest.xml:7:13-73
+	android:name
+		ADDED from F:\app\app\src\main\AndroidManifest.xml:7:21-70
+application
+ADDED from F:\app\app\src\main\AndroidManifest.xml:11:5-35:19
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\41d6205a369c2736287597c396de302e\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\41d6205a369c2736287597c396de302e\transformed\material-1.3.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\JungMin Park\.gradle\caches\transforms-3\367f2ae5228903c19f30a33b6d7e3d73\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\JungMin Park\.gradle\caches\transforms-3\367f2ae5228903c19f30a33b6d7e3d73\transformed\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.2] C:\Users\JungMin Park\.gradle\caches\transforms-3\8b183c82c61773c45017a1ce762e00aa\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\JungMin Park\.gradle\caches\transforms-3\8b183c82c61773c45017a1ce762e00aa\transformed\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\86ccdf953527e9bfe336d813b52aa3f8\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\86ccdf953527e9bfe336d813b52aa3f8\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.3.1] C:\Users\JungMin Park\.gradle\caches\transforms-3\5fa5fcbc4297bd6910dab4a80a49f4bf\transformed\jetified-tensorflow-lite-task-base-0.3.1\AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-task-base:0.3.1] C:\Users\JungMin Park\.gradle\caches\transforms-3\5fa5fcbc4297bd6910dab4a80a49f4bf\transformed\jetified-tensorflow-lite-task-base-0.3.1\AndroidManifest.xml:4:4-5:18
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\9ca556d4b0ff26169a70e6a446f91674\transformed\jetified-tensorflow-lite-api-2.7.0\AndroidManifest.xml:10:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\9ca556d4b0ff26169a70e6a446f91674\transformed\jetified-tensorflow-lite-api-2.7.0\AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\JungMin Park\.gradle\caches\transforms-3\2894c6cf76b855333abbe18483663783\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\JungMin Park\.gradle\caches\transforms-3\2894c6cf76b855333abbe18483663783\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\JungMin Park\.gradle\caches\transforms-3\8b183c82c61773c45017a1ce762e00aa\transformed\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from F:\app\app\src\main\AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from F:\app\app\src\main\AndroidManifest.xml:14:9-41
+	android:roundIcon
+		ADDED from F:\app\app\src\main\AndroidManifest.xml:15:9-54
+	android:icon
+		ADDED from F:\app\app\src\main\AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from F:\app\app\src\main\AndroidManifest.xml:12:9-35
+	android:theme
+		ADDED from F:\app\app\src\main\AndroidManifest.xml:17:9-53
+activity#org.tensorflow.codelabs.objectdetection.MainActivity
+ADDED from F:\app\app\src\main\AndroidManifest.xml:18:9-24:20
+	android:name
+		ADDED from F:\app\app\src\main\AndroidManifest.xml:18:19-86
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from F:\app\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from F:\app\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from F:\app\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from F:\app\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from F:\app\app\src\main\AndroidManifest.xml:22:27-74
+provider#androidx.core.content.FileProvider
+ADDED from F:\app\app\src\main\AndroidManifest.xml:26:9-34:20
+	android:grantUriPermissions
+		ADDED from F:\app\app\src\main\AndroidManifest.xml:30:13-47
+	android:authorities
+		ADDED from F:\app\app\src\main\AndroidManifest.xml:28:13-87
+	android:exported
+		ADDED from F:\app\app\src\main\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from F:\app\app\src\main\AndroidManifest.xml:27:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from F:\app\app\src\main\AndroidManifest.xml:31:13-33:54
+	android:resource
+		ADDED from F:\app\app\src\main\AndroidManifest.xml:33:17-51
+	android:name
+		ADDED from F:\app\app\src\main\AndroidManifest.xml:32:17-67
+uses-sdk
+INJECTED from F:\app\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\app\app\src\main\AndroidManifest.xml
+INJECTED from F:\app\app\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\JungMin Park\.gradle\caches\transforms-3\37536efd5748878503cf2dc01f87f6a1\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\JungMin Park\.gradle\caches\transforms-3\37536efd5748878503cf2dc01f87f6a1\transformed\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\5da4dc74ff000d992827c5b2b7b39b61\transformed\jetified-lifecycle-runtime-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\5da4dc74ff000d992827c5b2b7b39b61\transformed\jetified-lifecycle-runtime-ktx-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\41d6205a369c2736287597c396de302e\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\41d6205a369c2736287597c396de302e\transformed\material-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\JungMin Park\.gradle\caches\transforms-3\367f2ae5228903c19f30a33b6d7e3d73\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\JungMin Park\.gradle\caches\transforms-3\367f2ae5228903c19f30a33b6d7e3d73\transformed\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\4d9d9461cdcbcc0729e39a74fe4a7bcf\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\4d9d9461cdcbcc0729e39a74fe4a7bcf\transformed\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\JungMin Park\.gradle\caches\transforms-3\2e6de6fbbe04f9e23772a1923522a233\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.2] C:\Users\JungMin Park\.gradle\caches\transforms-3\2e6de6fbbe04f9e23772a1923522a233\transformed\exifinterface-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.3.1] C:\Users\JungMin Park\.gradle\caches\transforms-3\63a37ee45f3d5943a222dcfb4e779145\transformed\jetified-tensorflow-lite-task-vision-0.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite-task-vision:0.3.1] C:\Users\JungMin Park\.gradle\caches\transforms-3\63a37ee45f3d5943a222dcfb4e779145\transformed\jetified-tensorflow-lite-task-vision-0.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\411e0db9bddc8b74648643de639dfa95\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\411e0db9bddc8b74648643de639dfa95\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\749a1e6110515bfe79c6602069e6156c\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\749a1e6110515bfe79c6602069e6156c\transformed\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\3b331f3fc9c7512c78e45a904d81ee79\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\3b331f3fc9c7512c78e45a904d81ee79\transformed\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\9f77ddf6958393bc2e6bb5a5f25661f4\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\9f77ddf6958393bc2e6bb5a5f25661f4\transformed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\c814f84c89e2ab17c8184682a9a5df60\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\c814f84c89e2ab17c8184682a9a5df60\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\80143b588b75a1a49b487b5189c1d7c2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\80143b588b75a1a49b487b5189c1d7c2\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\cd326af983f44c3c7bfa12ee7401a007\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\cd326af983f44c3c7bfa12ee7401a007\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\b3a8e15998b1c1324eb42643c97abd05\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\b3a8e15998b1c1324eb42643c97abd05\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\801d960d51ed0b9ee95b6b7d996c1b4a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\801d960d51ed0b9ee95b6b7d996c1b4a\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\03dc8120218393b05f8c51bed3dea04b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\03dc8120218393b05f8c51bed3dea04b\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\b55be134a60a8710c41d74a0e3e2c2d3\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\b55be134a60a8710c41d74a0e3e2c2d3\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\e4c6e50681cfaed855c30066d635b9e7\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\e4c6e50681cfaed855c30066d635b9e7\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\83eaeb533fddac814ad07d7a84b9f495\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\83eaeb533fddac814ad07d7a84b9f495\transformed\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\7a08d71db02abdc70a6a8396af3b972c\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\7a08d71db02abdc70a6a8396af3b972c\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\0e2d15efcb66bbbb50a4efb956548c63\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\0e2d15efcb66bbbb50a4efb956548c63\transformed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] C:\Users\JungMin Park\.gradle\caches\transforms-3\8b183c82c61773c45017a1ce762e00aa\transformed\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\JungMin Park\.gradle\caches\transforms-3\8b183c82c61773c45017a1ce762e00aa\transformed\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\03f2a205005cf4c361b29bc9a58533e2\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\03f2a205005cf4c361b29bc9a58533e2\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\8b49b448f96530ab0f364a01fcc71a6a\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\8b49b448f96530ab0f364a01fcc71a6a\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\8938423ac1cbb953803e642febc9afa5\transformed\lifecycle-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\8938423ac1cbb953803e642febc9afa5\transformed\lifecycle-runtime-2.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\86ccdf953527e9bfe336d813b52aa3f8\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\86ccdf953527e9bfe336d813b52aa3f8\transformed\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\6971b8cea221a35726a2e83084f4db53\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\6971b8cea221a35726a2e83084f4db53\transformed\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\0e2644e941b52e0cac4197c9471712ac\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\0e2644e941b52e0cac4197c9471712ac\transformed\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\535bbbfae8a61ec511ed932389014bee\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\535bbbfae8a61ec511ed932389014bee\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\e967a9f456a6ad288822aa5c61e691f7\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\e967a9f456a6ad288822aa5c61e691f7\transformed\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\173b4fed58426d2792a3f48379edd4f6\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\173b4fed58426d2792a3f48379edd4f6\transformed\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\27240a40f72b58f629e4c1a3b8228043\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\27240a40f72b58f629e4c1a3b8228043\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\b7a5835dcd4a15d223c7184446c80595\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\b7a5835dcd4a15d223c7184446c80595\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\6bcf35b3e25dd83bbf7bc111d9ec093a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\6bcf35b3e25dd83bbf7bc111d9ec093a\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\95767d714824c3664dc10dc07531ca65\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\95767d714824c3664dc10dc07531ca65\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\b5495c7f7eb8a59970c048401ff60c1d\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\b5495c7f7eb8a59970c048401ff60c1d\transformed\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.3.1] C:\Users\JungMin Park\.gradle\caches\transforms-3\51777d1b4e077bb7d18f96e1e3f1d335\transformed\jetified-tensorflow-lite-support-api-0.3.1\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.3.1] C:\Users\JungMin Park\.gradle\caches\transforms-3\51777d1b4e077bb7d18f96e1e3f1d335\transformed\jetified-tensorflow-lite-support-api-0.3.1\AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\9ca556d4b0ff26169a70e6a446f91674\transformed\jetified-tensorflow-lite-api-2.7.0\AndroidManifest.xml:7:5-8:41
+MERGED from [org.tensorflow:tensorflow-lite-api:2.7.0] C:\Users\JungMin Park\.gradle\caches\transforms-3\9ca556d4b0ff26169a70e6a446f91674\transformed\jetified-tensorflow-lite-api-2.7.0\AndroidManifest.xml:7:5-8:41
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\JungMin Park\.gradle\caches\transforms-3\2894c6cf76b855333abbe18483663783\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] C:\Users\JungMin Park\.gradle\caches\transforms-3\2894c6cf76b855333abbe18483663783\transformed\jetified-image-1.0.0-beta1\AndroidManifest.xml:5:5-44
+INJECTED from F:\app\app\src\main\AndroidManifest.xml
+INJECTED from F:\app\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from F:\app\app\src\main\AndroidManifest.xml
+		ADDED from F:\app\app\src\main\AndroidManifest.xml
+		INJECTED from F:\app\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from F:\app\app\src\main\AndroidManifest.xml
+		ADDED from F:\app\app\src\main\AndroidManifest.xml
+		MERGED from F:\app\app\src\main\AndroidManifest.xml
+		INJECTED from F:\app\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from F:\app\app\src\main\AndroidManifest.xml:2:1-37:12 reason: src.java.org.tensorflow.lite.task.core has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from F:\app\app\src\main\AndroidManifest.xml:2:1-37:12 reason: src.java.org.tensorflow.lite.task.core has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from F:\app\app\src\main\AndroidManifest.xml:2:1-37:12 reason: src.java.org.tensorflow.lite.task.core requested WRITE_EXTERNAL_STORAGE
